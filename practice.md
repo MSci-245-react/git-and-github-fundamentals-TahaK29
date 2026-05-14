@@ -6,9 +6,15 @@ In Lecture 1, I learned that JavaScript has different types, and that some resul
 - The `typeof` operator tells you the type of a value.
 - Using `==` can sometimes give unexpected results because it does type conversion.
 
+## Input 
+
 ```javascript
 typeof null
 0 == ""
+```
+## Output 
 
+```
 'object'
 true
+```
